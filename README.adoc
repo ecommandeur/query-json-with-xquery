@@ -1,0 +1,25 @@
+= Querying JSON with XQuery 3.1
+
+The goal of this repository is to bring together examples and documentation on how to query JSON documents with XQuery 3.1 using BaseX, a popular XQuery 3.1 implementation <<XQueryWikipedia>>. 
+
+
+== XQuery History
+
+XQuery started out as a language for querying XML and has roots dating back to 1998 <<Finney>>. 
+
+XQuery 1.0 became a W3C recommendation in 2010 <<QueryCoverPage>>.
+
+XQuery 3.1 became a W3C recommendation in 2017 <<QueryCoverPage>>. XQuery 3.1 extended XQuery to support quering JSON as well as XML.
+
+
+[bibliography]
+== References
+
+[[[Finney]]] 
+http://www.tfinney.net/XQuery/
+
+[[[XQueryCoverPage]]]
+https://www.w3.org/TR/xquery/all/
+
+[[[XQueryWikipedia]]]
+https://en.wikipedia.org/wiki/XQuery
